@@ -28,3 +28,7 @@ Setelah semua pustaka terinstal, Anda dapat menjalankan aplikasi Streamlit denga
 ```bash
 streamlit run e_dash.py
 ```
+
+# Tautan Untuk Mengakses hasil visualisasi data
+
+## 🔗 [Link Hasil Visualisasi](https://edashpy-4vxaenjht7ntfjmm8ddwpr.streamlit.app/)
